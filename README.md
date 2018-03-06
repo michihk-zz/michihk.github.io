@@ -1,4 +1,4 @@
-# Collections
+# Welcome to michihk on Github
 
 ## Collections is a curated content repository to specific topics of interest
 
